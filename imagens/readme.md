@@ -1,6 +1,6 @@
 # Repositório para compartilhar imagens
 
-* [Indice](#funciona)
+* [🖼️ Imangens](#funciona)
   * [JPG]()
   * [GIF]()
   * [PNG]()
